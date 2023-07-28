@@ -1,0 +1,47 @@
+.about-container{
+    display:flex;
+    background: url(./assets/bg2.png);
+    backface-visibility: 10%;
+    background-size:cover;
+    background-position: bottom;
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:160px;
+    padding-right:160px;
+    align-items: center;
+    justify-content: center;
+    
+}
+#blur-background{
+    backdrop-filter: blur(20px);
+}
+.boxes{
+    flex:1;
+}
+.first-paragraph{
+    color:rgb(228, 234, 231);
+    text-indent:30px;
+    text-align: justify;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    line-height: 1.4;
+}
+ .second-paragraph{
+    color:rgb(228, 234, 231);
+    text-indent:30px;
+    text-align: justify;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    line-height: 1.5;
+}
+.left-part{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.left-part img{
+    width:400px;
+    padding-bottom:10px;
+}
+

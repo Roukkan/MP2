@@ -1,0 +1,12 @@
+/* Style the slider thumb to be rounded */
+.MuiSlider-thumb {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    z-index: 1; /* Ensure the thumb is always visible above the track */
+  }
+  
+  /* Always show the value label */
+  .MuiSlider-valueLabel {
+    display: block;
+  }
