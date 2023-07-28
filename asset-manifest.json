@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MP2/static/css/main.03e1d374.css",
+    "main.js": "/MP2/static/js/main.64c8844e.js",
+    "static/js/496.0b645906.chunk.js": "/MP2/static/js/496.0b645906.chunk.js",
+    "static/media/palawan.jpg": "/MP2/static/media/palawan.2aee8011172582c7cc57.jpg",
+    "static/media/background1.png": "/MP2/static/media/background1.f7dd8499a7abe6ffe567.png",
+    "static/media/bg2.png": "/MP2/static/media/bg2.24fbcab22ad1f5ace073.png",
+    "static/media/motherEarth.png": "/MP2/static/media/motherEarth.f64555ac94d4f7896636.png",
+    "static/media/bora3.jpg": "/MP2/static/media/bora3.581765732db809889047.jpg",
+    "static/media/EnviroQuest.jpg": "/MP2/static/media/EnviroQuest.2ab9ca80b997aefdc109.jpg",
+    "static/media/mwwp.jpg": "/MP2/static/media/mwwp.99cce9593a0b25507742.jpg",
+    "static/media/bohol.jpg": "/MP2/static/media/bohol.cfc1afa3b80ef8c97856.jpg",
+    "static/media/sps.jpg": "/MP2/static/media/sps.1a0eb1ea9f2a8687c5a2.jpg",
+    "static/media/Haribon.png": "/MP2/static/media/Haribon.d965fdd07c454424f594.png",
+    "static/media/WWF-logo.jpg": "/MP2/static/media/WWF-logo.6b5665bcd3bbb11b26fc.jpg",
+    "static/media/greenpeace.jpg": "/MP2/static/media/greenpeace.b18acb2344990021a702.jpg",
+    "static/media/wavesforwater.png": "/MP2/static/media/wavesforwater.56f539bdf65e5fe9a94c.png",
+    "index.html": "/MP2/index.html",
+    "main.03e1d374.css.map": "/MP2/static/css/main.03e1d374.css.map",
+    "main.64c8844e.js.map": "/MP2/static/js/main.64c8844e.js.map",
+    "496.0b645906.chunk.js.map": "/MP2/static/js/496.0b645906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e1d374.css",
+    "static/js/main.64c8844e.js"
+  ]
+}
